@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-<<<<<<< HEAD
 ## Creates a matrix object that can cache its inverse
 makeCacheMatrix <- function( m = matrix() ) {
 
